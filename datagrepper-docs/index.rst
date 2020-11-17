@@ -5,8 +5,8 @@ Topics and Example Messages
 A list of topics and examples messages is available as part of the
 `fedmsg_meta_umb documentation <{{URL}}umb/>`_.
 If your service is publishing messages and you don't see them listed,
-send a message to `pnt-factory2-devel@redhat.com
-<pnt-factory2-devel@redhat.com>`_ and request that they be added to
+send a message to `exd-guild-messaging@redhat.com
+<exd-guild-messaging@redhat.com>`_ and request that they be added to
 `fedmsg_meta_umb <https://github.com/release-engineering/fedmsg_meta_umb>`_.
 
 Prerequisites
